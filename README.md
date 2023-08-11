@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin
-
+- 🌱 I’m currently learning 
